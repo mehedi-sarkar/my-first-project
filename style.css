@@ -1,0 +1,23 @@
+ body{
+	 background-image:url("g.jfif");
+	 background-repeat:no-repeat;
+	 background-size:cover;
+ }
+ .main-box{
+	height:500px;
+	display:flex;
+	flex-wrap:wrap;
+	column-gap:10px;
+	row-gap:10px;
+	border:1px solid red;
+	align-items:center;
+	
+}
+.box{
+	width:200px;
+	height:200;
+	background:gray;
+}
+.box-bg{
+	background-image:url("g.jfif");
+}
